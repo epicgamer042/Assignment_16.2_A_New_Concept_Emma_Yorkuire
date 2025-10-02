@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc9c684809e9d44e7899a464ea53a65a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244003
+  packageName: Spider Pixel Art Character
+  packageVersion: 1.0
+  assetPath: Assets/sanctum_pixel/spider_package/spider/sprite/origin/dead_1.controller
+  uploadId: 555001
