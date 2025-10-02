@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fbd0d4f2669549e3b4b674a21f14681
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244003
+  packageName: Spider Pixel Art Character
+  packageVersion: 1.0
+  assetPath: Assets/sanctum_pixel/spider_package/spider/sprite/origin/cross_attack_1.controller
+  uploadId: 555001
